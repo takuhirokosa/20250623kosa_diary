@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=PBNkKg8nIpI
 ログイン機能学習
 https://code-lesson.com/lessons/28e6ae32-f905-424e-ae88-94578a6a7541
 
+streamlit.cloudにデプロイ
+https://app20cloudpython3py-y9hwqv8pn5jpf6xaydptkf.streamlit.app/
