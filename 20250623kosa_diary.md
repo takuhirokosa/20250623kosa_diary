@@ -18,3 +18,6 @@ https://app20cloudpython3py-y9hwqv8pn5jpf6xaydptkf.streamlit.app/
 - OpenAIライブラリのインストールとセットアップ
 
 ##2025年6月24日（火）
+
+###全体
+- 急激に追い上げてられている気がする！
